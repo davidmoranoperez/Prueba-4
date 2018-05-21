@@ -17,6 +17,13 @@ public class Selenita extends Extraterrestre implements DominarPlaneta {
         dispararArma();
     }
 
+/**
+*Metodo que muestra por pantalla el daño
+*/
+public void Daño(){
+	System.out.println("El daño ha sido brutal");
+}
+
     /**
      * Muestra un mensaje con el ruido del arma
      */
