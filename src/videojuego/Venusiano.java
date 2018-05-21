@@ -1,5 +1,5 @@
 package videojuego;
-
+//David Morano Perez
 public class Venusiano extends Extraterrestre {
 
     private int cabezas;
