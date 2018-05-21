@@ -1,4 +1,5 @@
 package videojuego;
+//David Morano Pérez
 //21-06-2018
 public class Venusiano extends Extraterrestre {
 
